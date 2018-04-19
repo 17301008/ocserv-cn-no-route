@@ -24,4 +24,6 @@
 
 [https://rutracker.org/forum/viewtopic.php?t=3515431](https://rutracker.org/forum/viewtopic.php?t=3515431)
 
-[magnet:?xt=urn:btih:D875FB7B8082AA14613AC0BD295A4451F2684723](magnet:?xt=urn:btih:D875FB7B8082AA14613AC0BD295A4451F2684723)
+```
+magnet:?xt=urn:btih:D875FB7B8082AA14613AC0BD295A4451F2684723
+```
